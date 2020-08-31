@@ -1,0 +1,128 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes-hr-terrain",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    {
+      "name": "Automatic_Train_Painter",
+      "enabled": true
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    {
+      "name": "Camera-san",
+      "enabled": true
+    },
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    {
+      "name": "FluidWagonColorMask",
+      "enabled": true
+    },
+    {
+      "name": "FoodIndustry",
+      "enabled": true
+    },
+    {
+      "name": "LandMover",
+      "enabled": true
+    },
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Enemies",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "sonaxaton-infinite-resources",
+      "enabled": true
+    },
+    {
+      "name": "sonaxaton-resource-map-markers",
+      "enabled": true
+    },
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    {
+      "name": "WaterTurret",
+      "enabled": true
+    }
+  ]
+}
