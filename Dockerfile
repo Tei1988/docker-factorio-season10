@@ -1,4 +1,3 @@
-FROM factoriotools/factorio:1.0.0
-
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
 COPY ./mods/* /factorio/mods/
-

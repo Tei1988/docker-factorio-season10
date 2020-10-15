@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  factorio:
+    image: tei1988/factorio-season10:1.0.2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      args:
+        - BASE_IMAGE=factoriotools/factorio:1.0.0
+    ports:
+      - "0.0.0.0:34197:34197/udp"
+    environment:
+      TZ: 'Asia/Tokyo'
+    volumes:
+      - ./saves:/factorio/saves:rw
+      - ./config:/factorio/config:rw
+    restart: always
